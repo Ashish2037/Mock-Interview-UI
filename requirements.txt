@@ -1,0 +1,31 @@
+# requirements.txt
+
+# Speech recognition
+SpeechRecognition==3.8.1
+
+# Sentence embeddings
+sentence-transformers==2.0.0
+
+# Text-to-speech
+gTTS==2.2.3
+pygame==2.1.1
+
+# GUI
+tk==8.6.12
+
+# Threading
+threading==3.0.9
+
+# Computer Vision
+opencv-python==4.5.1
+mediapipe==0.8.6
+ultralytics==0.10.1
+Pillow==8.1.0
+
+# Machine Learning
+torch==1.9.1
+torchvision==0.10.1
+
+# Natural Language Processing
+transformers==4.12.2
+langchain==0.0.7
